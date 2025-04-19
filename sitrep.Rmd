@@ -1,3 +1,4 @@
 Comparar tasa de ataque en diferentes grupos
 Para identificar grupos a priorizar en intervención
 Mapas ilustran la propagación e impacto del brote
+Leer shapefiles con el paquete {sf}
